@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52b951eb-16f8-4944-9326-6163f1bde18b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/potree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Assets/Textures/NaturalEarthII/tilemapresource.xml" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Assets/Textures/NaturalEarthII/tilemapresource.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Cesium.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Cesium.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/ThirdParty/Workers/deflate.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/ThirdParty/Workers/deflate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/ThirdParty/Workers/inflate.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/ThirdParty/Workers/inflate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/Mouse.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/Mouse.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/MouseLeft.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/MouseLeft.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/MouseMiddle.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/MouseMiddle.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/MouseRight.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/MouseRight.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/Touch.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/Touch.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/TouchDrag.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/TouchDrag.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/TouchRotate.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/TouchRotate.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/TouchTilt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/TouchTilt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/TouchZoom.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Widgets/Images/NavigationHelp/TouchZoom.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/cesiumWorkerBootstrapper.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/cesiumWorkerBootstrapper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/combineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/combineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createBoxGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createBoxGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createBoxOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createBoxOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createCircleGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createCircleGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createCircleOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createCircleOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createCorridorGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createCorridorGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createCorridorOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createCorridorOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createCylinderGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createCylinderGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createCylinderOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createCylinderOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createEllipseGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createEllipseGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createEllipseOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createEllipseOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createEllipsoidGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createEllipsoidGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createEllipsoidOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createEllipsoidOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createFrustumGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createFrustumGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createFrustumOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createFrustumOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createPolygonGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createPolygonGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createPolygonOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createPolygonOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createPolylineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createPolylineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createPolylineVolumeGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createPolylineVolumeGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createPolylineVolumeOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createPolylineVolumeOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createRectangleGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createRectangleGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createRectangleOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createRectangleOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createSimplePolylineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createSimplePolylineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createSphereGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createSphereGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createSphereOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createSphereOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createVerticesFromGoogleEarthEnterpriseBuffer.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createVerticesFromGoogleEarthEnterpriseBuffer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createVerticesFromHeightmap.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createVerticesFromHeightmap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createVerticesFromQuantizedTerrainMesh.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createVerticesFromQuantizedTerrainMesh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createWallGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createWallGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/createWallOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/createWallOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/decodeGoogleEarthEnterprisePacket.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/decodeGoogleEarthEnterprisePacket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/transcodeCRNToDXT.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/transcodeCRNToDXT.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/transferTypedArrayTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/transferTypedArrayTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/Cesium/Workers/upsampleQuantizedTerrainMesh.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/Cesium/Workers/upsampleQuantizedTerrainMesh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/MeshLine/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/libs/MeshLine/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/MeshLine/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/libs/MeshLine/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/MeshLine/src/THREE.MeshLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/MeshLine/src/THREE.MeshLine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/d3/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/libs/d3/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/d3/d3.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/d3/d3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/d3/d3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/d3/d3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/i18next/i18next.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/i18next/i18next.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery-ui/AUTHORS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jquery-ui/AUTHORS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery-ui/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jquery-ui/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery-ui/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jquery-ui/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery-ui/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jquery-ui/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery-ui/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jquery-ui/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery-ui/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jquery-ui/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery-ui/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jquery-ui/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery-ui/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jquery-ui/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery-ui/jquery-ui.theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jquery-ui/jquery-ui.theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery-ui/jquery-ui.theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jquery-ui/jquery-ui.theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jquery-ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery/jquery-3.1.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jquery/jquery-3.1.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery/jquery-3.1.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jquery/jquery-3.1.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jstree/LICENSE-MIT" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jstree/LICENSE-MIT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jstree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jstree/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jstree/jstree.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jstree/jstree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jstree/jstree.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jstree/jstree.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jstree/themes/mixed/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/jstree/themes/mixed/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/openlayers3/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/libs/openlayers3/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/openlayers3/ol-deps.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/openlayers3/ol-deps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/openlayers3/ol.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/openlayers3/ol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/other/BinaryHeap.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/other/BinaryHeap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/other/OBJLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/other/OBJLoader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/other/OrbitControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/other/OrbitControls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/other/PLYLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/other/PLYLoader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/other/dat.gui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/other/dat.gui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/other/stats.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/other/stats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/other/stats.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/other/stats.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/other/webgl-debug.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/other/webgl-debug.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/perfect-scrollbar/css/perfect-scrollbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/perfect-scrollbar/css/perfect-scrollbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/perfect-scrollbar/css/perfect-scrollbar.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/perfect-scrollbar/css/perfect-scrollbar.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/perfect-scrollbar/js/perfect-scrollbar.jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/perfect-scrollbar/js/perfect-scrollbar.jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/perfect-scrollbar/js/perfect-scrollbar.jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/perfect-scrollbar/js/perfect-scrollbar.jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/perfect-scrollbar/js/perfect-scrollbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/perfect-scrollbar/js/perfect-scrollbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/perfect-scrollbar/js/perfect-scrollbar.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/perfect-scrollbar/js/perfect-scrollbar.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/plasio/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/libs/plasio/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/plasio/js/laslaz.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/plasio/js/laslaz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/plasio/vendor/bluebird.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/plasio/vendor/bluebird.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/plasio/workers/laz-loader-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/plasio/workers/laz-loader-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/plasio/workers/laz-perf.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/plasio/workers/laz-perf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/potree.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/potree.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/potree.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/potree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/annotation.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/annotation.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/area.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/area.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/area_backup.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/area_backup.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/back.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/back.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/bottom.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/bottom.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/clip-plane-x.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/clip-plane-x.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/clip-plane-y.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/clip-plane-y.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/clip-plane-z.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/clip-plane-z.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/clip-polygon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/clip-polygon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/clip-screen.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/clip-screen.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/clip_volume.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/clip_volume.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/close.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/close.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/cloud.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/cloud.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/copy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/copy.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/distance.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/distance.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/earth_controls.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/earth_controls.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/eye.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/eye.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/eye_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/eye_2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/eye_crossed.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/eye_crossed.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/file_csv_2d.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/file_csv_2d.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/file_dxf.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/file_dxf.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/file_geojson.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/file_geojson.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/file_las_3d.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/file_las_3d.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/flip_y_z.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/flip_y_z.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/focus.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/focus.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/fps_controls.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/fps_controls.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/front.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/front.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/goto.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/goto.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/height.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/height.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/helicopter_controls.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/helicopter_controls.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/image_preview.php" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/image_preview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/left.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/left.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/menu_button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/menu_button.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/menu_icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/menu_icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/navigation_cube.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/navigation_cube.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/orbit_controls.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/orbit_controls.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/orthographic-camera.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/orthographic-camera.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/perspective-camera.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/perspective-camera.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/point.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/point.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/profile.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/profile.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/remove.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/remove.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/reset_tools.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/reset_tools.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/return_number.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/return_number.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/rgb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/rgb.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/right.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/rotate.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/rotate.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/scale.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/scale.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/sphere.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/sphere.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/target.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/target.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/top.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/top.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/translate.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/translate.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/triangle.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/triangle.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/icons/volume.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/icons/volume.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/images/child_indices.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/images/child_indices.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/lang/de/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/lang/de/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/lang/dev/ns.common.json" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/lang/dev/ns.common.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/lang/dev/ns.special.json" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/lang/dev/ns.special.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/lang/dev/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/lang/dev/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/lang/en-US/ns.common.json" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/lang/en-US/ns.common.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/lang/en-US/ns.special.json" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/lang/en-US/ns.special.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/lang/en-US/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/lang/en-US/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/lang/en/ns.common.json" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/lang/en/ns.common.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/lang/en/ns.special.json" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/lang/en/ns.special.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/lang/en/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/lang/en/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/lang/fr/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/lang/fr/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/lang/jp/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/lang/jp/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/models/stanford_bunny_reduced.mtl" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/models/stanford_bunny_reduced.mtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/models/stanford_bunny_reduced.obj" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/models/stanford_bunny_reduced.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/textures/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/textures/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/textures/skybox/skyboxsun25degtest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/textures/skybox/skyboxsun25degtest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/textures/skybox2/README.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/textures/skybox2/README.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/resources/textures/skyboxsun25degtest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/resources/textures/skyboxsun25degtest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/workers/BinaryDecoderWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/workers/BinaryDecoderWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/workers/GreyhoundBinaryDecoderWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/workers/GreyhoundBinaryDecoderWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/workers/LASDecoderWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/workers/LASDecoderWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/potree/workers/LASLAZWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/potree/workers/LASLAZWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/proj4/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/libs/proj4/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/proj4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/libs/proj4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/proj4/proj4.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/proj4/proj4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/shapefile/shapefile.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/shapefile/shapefile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/spectrum/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/libs/spectrum/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/spectrum/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/libs/spectrum/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/spectrum/spectrum.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/spectrum/spectrum.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/spectrum/spectrum.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/spectrum/spectrum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/three.js/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/libs/three.js/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/three.js/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/libs/three.js/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/three.js/build/three.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/three.js/build/three.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/three.js/build/three.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/three.js/build/three.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/tween/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libs/tween/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/tween/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libs/tween/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/tween/Tween.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/tween/Tween.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/tween/tween.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/tween/tween.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/cloud.js" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/cloud.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r.hrc" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r.hrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r00.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r00.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r000.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r002.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r004.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r004.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r006.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r006.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r007.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r007.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r01.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r02.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r02.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r020.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r020.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r022.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r022.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r024.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r024.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0240.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0240.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0241.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0241.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0242.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0242.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0243.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0243.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0245.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0245.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0247.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0247.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r025.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r025.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r026.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r026.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0260.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0260.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0261.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0261.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0262.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0262.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0263.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0263.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0265.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0265.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0267.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0267.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r04.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r04.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r040.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r041.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r041.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r042.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r043.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r043.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0430.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0430.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0432.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0432.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0434.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0435.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0436.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0437.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0437.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r045.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r047.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0471.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0473.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0475.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0477.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r05.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r05.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r051.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r054.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r054.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r056.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r056.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0564.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0566.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r06.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r06.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r060.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r061.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r061.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0610.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0610.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0612.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0612.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0614.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0615.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0615.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0616.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0617.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0617.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r062.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r063.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r063.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0630.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0630.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0632.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0632.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0634.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0635.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0635.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0636.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0637.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0637.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r065.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0651.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0653.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0655.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0657.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r067.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0671.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0673.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0675.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0677.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r07.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r07.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r073.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r073.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r074.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r074.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0744.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0746.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0747.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r075.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r075.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0752.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0752.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0753.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0756.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0756.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0757.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0757.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r076.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r076.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0761.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0761.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0764.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0765.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0766.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0767.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r077.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r077.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0770.bin" beforeDir="false" afterPath="$PROJECT_DIR$/pointclouds/index/data/r/r0770.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/data/r/r0771.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointclouds/index/sources.json" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/libs/jquery-ui/package.json" />
+      <path value="$PROJECT_DIR$/resources/page_template/libs/jquery-ui/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="y" value="1" />
+    <option name="width" value="798" />
+    <option name="height" value="558" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="potree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="potree" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52b951eb-16f8-4944-9326-6163f1bde18b" name="Default" comment="" />
+      <created>1527967407856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527967407856</updated>
+      <workItem from="1527967409968" duration="564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="573000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14568081" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
