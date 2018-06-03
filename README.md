@@ -34,8 +34,17 @@ At next step for editing the point cloud I used the Free-Form Selection to
  ![pix4d](img/7.jpg)
   
  Finally export the file in format of .las.
-In next step, I download the Potree Conversion 1.6 release and download the zip file. Then place them in a folder that will solely be dedicated to this Potree page. next I Extract the files in this location.
+ 
+In next step, I download the Potree Conversion 1.6 release and download the zip file.
+ Then place them in a folder that will solely be dedicated to this Potree page.
+  next I Extract the files in this location.
+  Next, I place the LAS file in this folder. Using the command prompt, run the following code from the same
+   folder that I have just created:
+   
+  ![pix4d](img/9.jpg)
+  
+  PotreeConverter.exe G:\input.las -o G:\output -p index --overwrite --output-format LAS
 
 
-
+In last step, by running the index.html we can see the result.
 
