@@ -41,7 +41,7 @@ In next step, I download the Potree Conversion 1.6 release and download the zip 
   Next, I place the LAS file in this folder. Using the command prompt, run the following code from the same
    folder that I have just created:
    
-  ![pix4d](img/9.jpg)
+  ![pix4d](img/9.JPG)
   
   PotreeConverter.exe G:\input.las -o G:\output -p index --overwrite --output-format LAS
 
